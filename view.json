@@ -1,12 +1,12 @@
 {
 	"name" : "MfCategories",
-	"display_name" : "SP Framework Fintech Mf Categories View",
-	"description" : "<p>SP Framework Fintech Mf Categories View</p>",
+	"display_name" : "Mutual Fund Categories View",
+	"description" : "<p>Mutual Fund Categories View</p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
 	"category" : "mutualfunds",
 	"version" : "0.0.0",
-	"repo" : "https://github.com/sp-fintech/fintech-views-mutualfunds-default-mfcategories",
+	"repo" : "https://github.com/sp-fintech-mutualfunds/fintech-views-mutualfunds-default-mfcategories",
 	"dependencies" : 
 	{
 		"core" : 
